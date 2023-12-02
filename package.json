@@ -3,6 +3,7 @@
     "start": "vite --open"
   },
   "dependencies": {
+    "tinymce": "5.10.9",
     "ts-node": "10.3.0"
   },
   "devDependencies": {
